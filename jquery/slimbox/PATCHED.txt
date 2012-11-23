@@ -1,0 +1,4 @@
+
+The file 2.04/js/slimbox2.js was customized:
+
+Removed autoload block, to be able to start the gallery manually with custom options!
